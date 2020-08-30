@@ -1,0 +1,22 @@
+/*
+etiqueta{
+	propiedad: valor;
+}
+*/
+body{
+	font-family: 'Gochi Hand', cursive;
+	font-size: 16px;
+}
+section article p{
+	color: red;
+	font-weight: bolder;
+}
+@media screen and (min-width: 480px){/*tamano Celelar*/
+
+}
+@media screen and (min-width: 767px){/*tamano Tablet*/
+
+}
+@media screen and (min-width: 950px){/*tamano Monitor*/
+
+}
